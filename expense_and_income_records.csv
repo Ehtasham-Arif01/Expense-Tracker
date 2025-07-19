@@ -1,0 +1,17 @@
+Category,Amount,Date,Description
+Hostel Rent,8000.0,2025-03-22,rent
+KFC,1000.0,2025-03-22,food
+burgers,2000.0,2025-03-22,food
+aftari,20000.0,2025-03-22,food
+treat,3500.0,2025-03-22,food
+jim,8000.0,2025-03-22,jim fee
+clothes,4000.0,2025-03-22,eid
+
+Source,Amount,Date
+parents,35000.0,2025-03-22
+projects,5000.0,2025-03-22
+loan ,10000.0,2025-03-22
+ATM,5000.0,2025-03-22
+saving,3000.0,2025-03-22
+gift,1000.0,2025-03-22
+prize,2000.0,2025-03-22
